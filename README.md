@@ -1,4 +1,4 @@
-# DL-P1
+# DL_P1_ANN_CNN
 Redes neuronales artificiales y convolucionales con Keras - Clasificación de imágenes y Superresolución
 
 # Autor:
